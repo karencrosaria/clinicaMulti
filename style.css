@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+* {    
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing+Script';
+}
+.navbar{
+    text-align: center;
+    max-height: 170px;
+    background-color: #ffffff;
+}
+.navbar h1{
+    color: #5C7073;
+}
+#carroimg {
+    padding-bottom: 50px;
+    filter: blur(5px);
+    width: 200px;
+    height: 100vh;
+    align-items: center;
+}
+
+#logo {
+    
+    height: 130px;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    color: #1c1f1f;
+}
+
+#text {
+    padding: 30px;
+    height: 95vh;
+    text-align: center;
+    background-color:#F2541B;
+}
+p{
+    color: #1c1f1f;
+}
+#espec {
+    padding: 30px;
+    height: 95vh;
+    text-align: center;
+    background-color: #F29422;
+}
+
+#profis {
+    padding: 30px;
+    height: 95vh;
+    text-align: right;
+    background-color: #5C7073
+}
+
+#isomos {
+    height: 320px;
+}
+
+#iespec {
+    height: 320px;
+}
+
+#iprofis {
+    height: 320px;
+    padding-bottom: 20px;
+}
+#contato{
+
+    margin-left: 85px;
+    background-color: #F2541B;
+    
+}
+#footer {
+    padding-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 30px;
+    background-color: rgb(5, 5, 5);
+}
+#top a{
+    color: #1c1f1f;
+}
